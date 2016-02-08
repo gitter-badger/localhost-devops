@@ -1,0 +1,16 @@
+# {{ ansible_managed }}
+{% for item in minetest_instances %}
+[Unit]
+Description=Minetest multiplayer server minetest-{{ item.name }}.conf server config
+Documentation=man:minetestserver(6)
+After=network.target
+
+[Service]
+Restart=on-failure
+User=root
+Group=root
+ExecStart=/usr/bin/minetest --server --config {{ minetest_location }}minetest-{{ item.name }}.conf --logfile /var/log/minetest/minetest-{{ item.name }}.log --world /usr/share/minetest/worlds/{{ item.name }} &
+
+[Install]
+WantedBy=multi-user.target
+{% endfor -%}

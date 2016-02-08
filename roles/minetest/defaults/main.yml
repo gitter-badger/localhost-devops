@@ -1,0 +1,9 @@
+minetest_location: /usr/share/minetest/
+
+minetest_games:
+  - name: craig-server_game
+    url: https://github.com/davisonio/craig-server_game
+
+minetest_instances: []
+
+minetest_secret_settings: []

@@ -1,0 +1,8 @@
+#
+# Hosts organised by application
+#
+# See projects file for host naming scheme
+#
+
+[app-base]
+localhost

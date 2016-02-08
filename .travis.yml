@@ -1,0 +1,14 @@
+language: python
+
+python:
+  - 2.7
+
+install:
+  - pip install ansible
+
+script:
+  # Run all our roles to check their syntax
+  - "cd tests && ansible-playbook test.yml --syntax-check"
+
+notifications:
+  email: false
