@@ -21,6 +21,9 @@
 
 ### Mission Control
 
+- Dashboard: off
+- Keyboard and Mouse Shortcuts- Show Dashboard: -
+
 ### Language & Region
 
 - Add preferred language: English (United Kingdom) - Primary
@@ -53,6 +56,7 @@
 ### Trackpad
 
 - Use look up & data detectors
+- Secondary click: Click in bottom right corner
 - Use tap to click
 - Tracking speed: 5th notch
 
@@ -73,7 +77,6 @@
 ### Network
 
 ### Bluetooth
-
 
 ### Sharing
 
@@ -106,3 +109,7 @@
 - Show in menu bar
 
 ### Accessibility
+
+## Download Mac App Store Apps
+
+- Twitter
