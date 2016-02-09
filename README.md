@@ -22,7 +22,7 @@ This contains the roles and things used to deploy and generally check everything
 
 ## Use
 
-- [See Setup localhost on OS X](https://github.com/davisonio/localhost-devops/blob/master/docs/setup-localhost-osx.md)
+- [Setup localhost on OS X](https://github.com/davisonio/localhost-devops/blob/master/docs/setup-localhost-osx.md)
 
 ## Further reading
 
