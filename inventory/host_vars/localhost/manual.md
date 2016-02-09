@@ -1,5 +1,10 @@
 # Manual
 
+## Table of Contents
+
+- [Set System Preferences](#set-system-preferences)
+- [Get App Store Apps](#get-app-store-apps)
+
 ## Set System Preferences
 
 ### General
@@ -110,6 +115,6 @@
 
 ### Accessibility
 
-## Download Mac App Store Apps
+## Get App Store Apps
 
 - Twitter
