@@ -54,8 +54,6 @@
 
 ### Keyboard
 
-- Show Viewers in menu bar
-
 ### Mouse
 
 ### Trackpad
