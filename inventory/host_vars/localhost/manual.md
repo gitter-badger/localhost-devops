@@ -61,7 +61,6 @@
 ### Trackpad
 
 - Use look up & data detectors
-- Secondary click: Click in bottom right corner
 - Use tap to click
 - Tracking speed: 5th notch
 
