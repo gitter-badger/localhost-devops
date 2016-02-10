@@ -117,3 +117,4 @@
 ## Get App Store Apps
 
 - Twitter
+- Slack
