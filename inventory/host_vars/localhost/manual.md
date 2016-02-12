@@ -13,9 +13,9 @@
 - Automatically hide and show the menu bar
 - Show scroll bars always
 - Ask to keep changes when closing documents
-- Show 30 recent items
 
 ### Desktop & Screen Saver
+
 - Change picture every day
 - Random order
 - Screen saver - start after: never
@@ -36,7 +36,6 @@
 ### Security & Privacy
 
 - Require password immediately after sleep
-
 - Allow apps downloaded from anywhere
 
 ### Spotlight
@@ -58,7 +57,6 @@
 
 ### Trackpad
 
-- Use look up & data detectors
 - Use tap to click
 - Tracking speed: 5th notch
 
@@ -69,6 +67,8 @@
 - Show volume in menu bar
 
 ### iCloud
+
+- Enable used iCloud services
 
 ### Internet Accounts
 
@@ -98,8 +98,8 @@
 ### Dictation & Speech
 
 - Dictation: on
-- Enchanced Dictation: off
-- System voice: Daniel with Enchanced Quality
+- Enhanced Dictation: off
+- System voice: Daniel with Enhanced Quality
 - Speak selected text when the key is pressed
 
 ### Date & Time
