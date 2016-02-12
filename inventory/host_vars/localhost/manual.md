@@ -116,3 +116,6 @@
 
 - Twitter
 - Slack
+- Pages
+- Numbers
+- Keynote
