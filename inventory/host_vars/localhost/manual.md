@@ -101,7 +101,7 @@
 
 - Dictation: on
 - Enhanced Dictation: off
-- System voice: Daniel with Enhanced Quality
+- System voice: Daniel
 - Speak selected text when the key is pressed
 
 ### Date & Time
