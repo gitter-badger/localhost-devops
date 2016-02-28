@@ -76,6 +76,8 @@
 
 ### Extensions
 
+- Enable used extensions
+
 ### Network
 
 ### Bluetooth
