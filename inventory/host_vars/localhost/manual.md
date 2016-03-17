@@ -100,9 +100,8 @@
 ### Dictation & Speech
 
 - Dictation: on
-- Enhanced Dictation: off
+- Enhanced Dictation: on
 - System voice: Daniel
-- Speak selected text when the key is pressed
 
 ### Date & Time
 
