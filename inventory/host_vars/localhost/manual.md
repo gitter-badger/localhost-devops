@@ -26,6 +26,7 @@
 
 ### Mission Control
 
+- Don't automatically rearrange spaces based on recent use
 - Dashboard: off
 - Keyboard and Mouse Shortcuts- Show Dashboard: -
 
