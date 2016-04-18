@@ -6,9 +6,10 @@ This guide will show you how to setup localhost on OS X.
 
 - [OS X](http://www.ubuntu.com/desktop) >= **10.11**
 - Logged in via SSH
-- [Python](https://www.python.org) + [pip](https://pypi.python.org/pypi/pip)
-- [Xcode](https://developer.apple.com/xcode/)
-- [Homebrew](http://brew.sh)
+- [Python](https://www.python.org) (should be preinstalled)
+- [pip](https://pypi.python.org/pypi/pip) (`sudo easy_install pip`)
+- [Xcode](https://developer.apple.com/xcode/) (do `xcode-select --install` and get [Xcode.app](https://itunes.apple.com/us/app/xcode/id497799835))
+- [Homebrew](http://brew.sh) (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
 
 ## 2. Get Ansible
 
