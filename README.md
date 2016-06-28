@@ -1,5 +1,7 @@
 # [localhost Devops](https://davison.io/localhost-devops/) :computer: [![](https://img.shields.io/travis/davisonio/localhost-devops.svg?style=flat-square)](https://travis-ci.org/davisonio/localhost-devops)
 
+[![Join the chat at https://gitter.im/davisonio/localhost-devops](https://badges.gitter.im/davisonio/localhost-devops.svg)](https://gitter.im/davisonio/localhost-devops?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > [Ansible](https://www.ansible.com)-powered DevOps and deployment for localhost
 
 <p align="center">
